@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋,I'm Tarek Elsabbagh<br>.NET Developer | Backend Enthusiast | Tech Mentor</h2>
+<h2 align="center">I'm Tarek Elsabbagh, a .NET Developer and Computer Science student at 6th of October University.</h2>
+
 
 ###
 
@@ -52,5 +54,25 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">🎓 I'm Tarek Elsabbagh, a passionate Computer Science student at 6th of October University, specializing in software development and backend engineering.<br><br>💻 I have strong experience building scalable Web APIs using ASP.NET Core, and I lead dynamic backend development initiatives with a focus on clean architecture and best software practices.<br><br>🚀 As a tech mentor at GDG Al-Azhar, I help students grow in .NET technologies, database design, and backend problem solving.<br><br>📚 I’m always learning — currently diving deeper into Microservices, Clean Architecture, and DevOps essentials like Docker.<br><br>🧠 I believe in collaboration, mentoring, and continuous growth as a developer and educator.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tareq70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tareq70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tareq70&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tareq70/tareq70/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tareq70/tareq70/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tareq70/tareq70/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
