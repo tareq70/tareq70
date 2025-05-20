@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋,I'm Tarek ELSabagh<br>.NET Developer | Backend Enthusiast | Tech Mentor</h2>
+<h2 align="center">Hi, I'm Tarek ELSabagh<br>.NET Developer | Backend Enthusiast | Tech Mentor</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.bdc9fb3aaec18ceaeffec5577c844541?rik=nnhIlHJus%2fTx1w&pid=ImgRaw&r=0"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxNmhleDMyNXV5NWJlZmZhaWk0YTR1aGh3NGVwYzJrOHQ2c3N6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 </div>
 
 ###
