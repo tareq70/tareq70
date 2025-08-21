@@ -35,7 +35,18 @@
 
 ###
 
-<p align="left">🎓 I'm Tarek Elsabbagh, a passionate Computer Science student at 6th of October University, specializing in software development and backend engineering.<br><br>💻 I have strong experience building scalable Web APIs using ASP.NET Core, and I lead dynamic backend development initiatives with a focus on clean architecture and best software practices.<br><br>🚀 As a tech mentor at GDG Al-Azhar, I help students grow in .NET technologies, database design, and backend problem solving.<br><br>📚 I’m always learning — currently diving deeper into Microservices, Clean Architecture, and DevOps essentials like Docker.<br><br>🧠 I believe in collaboration, mentoring, and continuous growth as a developer and educator.</p>
+<p align="left">
+  echo "
+🎓 I’m Tarek Elsabbagh, a Computer Science student at 6th of October University, specializing in Back-End Development with .NET.
+
+💻 Completed a one-month intensive training at the Information Technology Institute (ITI), gaining hands-on experience in C#, ASP.NET Core, SQL Server, and Entity Framework. Worked on practical projects like an E-commerce System and a Hospital Management System, showcasing the ability to transform ideas into real-world applications.
+
+🚀 Passionate about backend engineering, with experience in building scalable Web APIs and applying clean architecture principles for maintainable and efficient software solutions.
+
+📚 Mentor at GDG Al-Azhar, guiding students in .NET technologies, database design, and backend problem-solving. Continuously learning Microservices, DevOps, and Docker.
+
+🧠 Highly motivated to start my career as a Junior .NET Developer, eager to learn, collaborate, and grow within dynamic development teams.
+"</p>
 
 ###
 
