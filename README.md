@@ -36,15 +36,17 @@
 ###
 
 <p align="left">
-I’m Tarek Elsabbagh, a Computer Science student at 6th of October University, specializing in Back-End Development with .NET.
-  
-Completed a one-month intensive training at the Information Technology Institute (ITI), gaining hands-on experience in C#, ASP.NET Core, SQL Server, and Entity Framework. Worked on practical projects like an E-commerce System and a Hospital Management System, showcasing the ability to transform ideas into real-world applications.
+Computer Science student at October 6 University, specializing in Back-End Development with .NET.
 
-Passionate about backend engineering, with experience in building scalable Web APIs and applying clean architecture principles for maintainable and efficient software solutions.
+Completed a one-month intensive training at the Information Technology Institute (ITI), gaining hands-on experience in C#, ASP.NET Core, SQL Server, and Entity Framework.
+Worked on practical projects like an E-commerce System and a Hospital Management System, demonstrating the ability to transform ideas into real-world applications.
 
-Head Backend Commuinty at GDG Al-Azhar, guiding students in .NET technologies, database design, and backend problem-solving. Continuously learning Microservices, DevOps, and Docker.
+Passionate about Backend Engineering, with experience in building scalable Web APIs and applying Clean Architecture principles for maintainable and efficient software solutions.
 
-Highly motivated to start my career as a Junior .NET Developer, eager to learn, collaborate, and grow within dynamic development teams.
+Former Head of the Backend Community at GDG Al-Azhar, and currently part of GDG DUT, guiding students in .NET technologies, database design, and backend problem-solving.
+
+Continuously learning Microservices, DevOps, and Docker.
+
 </p>
 
 ###
