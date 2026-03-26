@@ -160,15 +160,3 @@ graph LR
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-<div align="center">
-  
-### 🌟 "Building the future, one API at a time" 🌟
-
-![Snake animation](https://raw.githubusercontent.com/tareq70/tareq70/output/github-contribution-grid-snake-dark.svg)
-
-<sub>⭐️ From [tareq70](https://github.com/tareq70) with ❤️</sub>
-
-</div>
